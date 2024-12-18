@@ -38,9 +38,9 @@ Update player movement<br />
     If player touches the door and button is pressed, play level cleared sound, advance level, reset level if not last level<br />
     Check if player lands on platforms or floor, apply gravity or reset position if necessary<br />
 
-If game state is VICTORY:
-    Display victory screen text
-    If Q key is pressed, quit game
-
-Update display
-Set frame rate
+If game state is VICTORY:<br />
+    Display victory screen text<br />
+    If Q key is pressed, quit game<br />
+<br />
+Update display<br />
+Set frame rate<br />
